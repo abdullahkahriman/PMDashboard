@@ -372,9 +372,10 @@ body {
                                     font-weight: normal;
                                     display: grid;
                                     place-items: center;
-                                    padding: 5px;
+                                    padding: 5px 20px;
                                     color: #fff;
                                     border-radius: 13px;
+                                    align-self: flex-start;
                                 }
                             }
                             .icon {
