@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "PMDashboard",
   "version": "1.0.0",
   "main": "gulpfile.js",
   "scripts": {
